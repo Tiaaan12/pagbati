@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pagbati</string>
+    <string name="greeting">Merry Christmas!</string>
+    <string name="subtitle">To my beloved mother</string>
+    <string name="christmas_message">May your Christmas be filled with happiness, warmth, and beautiful memories. You deserve all the wonderful things this season has to offer.</string>
+    <string name="signature">With love, ❤️</string>
+    <string name="button_text">🎁 Open Your Gift  ›</string>
+    <string name="suprise_intro">A LITTLE CHRISTMAS SURPRISE</string>
+    <string name="snowflakes">✳</string>
+    <string name="star">✦</string>
+    <string name="surprise_label">✦ A CHRISTMAS LETTER ✦</string>
+
+    <string name="mama_heading">Merry Christmas, Mama!</string>
+
+    <string name="mama_dear">Dear Mama,</string>
+
+    <string name="mama_message">I just want to remind you how much I love and appreciate you. Thank you for everything you do, for your care, and for always making our home special.\n\nI hope this Christmas brings you lots of happiness, laughter, good health, and all the things that make you smile. You deserve to be happy and spoiled, especially today!</string>
+
+    <string name="mama_signature">Love you, Mama! ❤️</string>
+
+    <string name="mama_footer">🎁 Have the sweetest Christmas! 🎄</string>
+
+    <string name="back_button_text">‹ Back to Christmas Card</string>
+</resources>
